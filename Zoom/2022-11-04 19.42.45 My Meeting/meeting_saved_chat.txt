@@ -1,0 +1,52 @@
+19:42:45 From Mahougnon To Everyone:
+	je vais aller au restaurant avec mes amis
+19:44:28 From Mahougnon To Everyone:
+	M: Bonjour les amis
+19:44:42 From Mahougnon To Everyone:
+	Z; Bonsoir
+19:44:58 From Mahougnon To Everyone:
+	R: Bonsoir
+19:45:25 From Mahougnon To Everyone:
+	M: Comment allez vous?
+19:45:56 From Mahougnon To Everyone:
+	R: je vais bien et toi?
+19:46:18 From Mahougnon To Everyone:
+	Z: Je vais bien aussi.
+19:47:08 From Mahougnon To Everyone:
+	M: je m'appelle Mahougnon. Et toi monsieur
+19:47:43 From Mahougnon To Everyone:
+	R: je m'appelle Ramian
+19:48:32 From Mahougnon To Everyone:
+	Z: je m'appelle Zinab
+19:49:11 From Mahougnon To Everyone:
+	M: C'est le weekend, vous avez quoi de prévu
+19:49:42 From Mahougnon To Everyone:
+	Z: je vais allez au restaurant avec mes ami
+19:50:05 From Mahougnon To Everyone:
+	R: tu veux manger quoi au restaurant?
+19:50:33 From Mahougnon To Everyone:
+	Je vais mangez des frites o poulet
+19:51:37 From Mahougnon To Everyone:
+	M: moi j'aime bien les frites o poulets
+19:52:11 From Mahougnon To Everyone:
+	R: et toi Mahougnon tu veux faire quoi ce weekend?
+19:56:09 From Mahougnon To Everyone:
+	M: je vais jouer au football avec mes amis
+19:57:43 From Mahougnon To Everyone:
+	Z: moi osi j'aime faire du sport
+19:58:38 From Mahougnon To Everyone:
+	M: et toi Ramian, tu a quoi de prevu?
+19:59:18 From Mahougnon To Everyone:
+	R: je veux partir o cinema avec mes voisins.
+19:59:40 From Mahougnon To Everyone:
+	Z: super, je veux suivre quel film?
+20:00:12 From Mahougnon To Everyone:
+	R: je veux suivre WOMEN KING
+20:00:31 From Mahougnon To Everyone:
+	M: C'est un tres bon film.
+20:01:57 From Mahougnon To Everyone:
+	Z; il est l'heur de dejeuner. je veux manger maintenant. Au revoir les ami
+20:03:21 From Mahougnon To Everyone:
+	R; Moi aussi je veux manger quelque chose maintenant. Au revoir
+20:04:12 From Mahougnon To Everyone:
+	M: Je dois quitter la maison pour le boulot. Passer une bonne soiree les ami.
